@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import bg from "./images/running_water.jpg"
 import Header from './components/Header';
@@ -10,6 +10,7 @@ function App() {
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
+    
   };
 
   return (
